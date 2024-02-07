@@ -34,6 +34,7 @@
     "ImageUrl": "images/training-certification/Authoring-Tools.jpg",
     "Name": "Basic DITA-XML",
     "ShortDesc": "This course focuses on individuals keen to broaden their knowledge or specialize in basic DITA- XML, in any industry. This course, focuses on what writers of business documents need to think and do differently to get their jobs done quickly and efficiently with DITA."
+ <button>onclick="alert('Button Clicked!')>Click Me</button>
   },
   {
     "ID": "AdvancedDITA-XML",
@@ -54,3 +55,38 @@
     "ShortDesc": "This course focuses on developing technical writing skills to deepen the knowledge of Madcap Flare for writing specialized content in structured format using DITA-XML and other structured formats. This course use a combination of lectures, demonstrations, and hands-on practice exercises to explore the major features of Flare."
   }
 ]
+
+
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>WebPage</title>
+    </head>
+    <body>
+        <div>
+            <P>ID: AdvancedTechnicalWriting-API</P>
+            <h2>AdvancedTechnicalWriting-API</h2>
+            <img src="images/training-certification/Technical-Writing.jpg" alt="Authoring Tools">
+           
+            <p>ShortDesc": "This course focuses on deepening the knoweldge of technical content deliverable, containing instructions.</p>
+            <button>onclick="alert('Button Clicked!')>Click Me</button>
+
+        </div>
+    </body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
